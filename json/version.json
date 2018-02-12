@@ -1,6 +1,6 @@
 {
   "newVersion": "5.5.0",
-  "apkUrl": "http://172.30.53.45:3000/apk",
+  "apkUrl": "http://159.65.10.228:3000/apk",
   "versionNotes": [
     "- Bug fixes"
   ]
